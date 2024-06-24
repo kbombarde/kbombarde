@@ -14,22 +14,9 @@ I am Kshitij Bombarde 😃. I am from Mumbai, Maharashtra and currently working 
 - ⚡ Fun fact **Continuous Integration is like a joke: if you have to explain it, it’s not that good.**
 
 ## ⚡ Technologies
-Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
-- ⚡ Fun fact: Internet users blink less than usual.
+- Programming Languages **Java, JavaScript, TypeScript**.
+- Test Automation Tools **Selenium, WebDriverIO**.
+- Automation Frameworks **Cucumber BDD, Mocha**.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbombarde&show_icons=true&locale=en&layout=compact" alt="kbombarde" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbombarde&label=Profile%20views&color=0e75b6&style=flat" alt="kbombarde" /> </p>
