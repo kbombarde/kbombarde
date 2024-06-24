@@ -2,7 +2,9 @@
 
 <img align='right' src='https://github.com/kbombarde/kbombarde/blob/main/1_DluPjzT_eTUFdzHCI7JBZA.gif' width='200px'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-kshitij-bombarde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-bombarde/)](https://www.linkedin.com/in/kshitij-bombarde/) [![Gmail Badge](https://img.shields.io/badge/-kbombarde15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbombarde15@gmail.com)](mailto:kbombarde15@gmail.com)
+<a href="https://www.linkedin.com/in/kshitij-bombarde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kbombarde15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
 
 I am Kshitij Bombarde 😃. I am from Mumbai, Maharashtra and currently working as Software Development Engineer in Test [SDET]. I love to explore and learn about new things.
 ## 👯 Communities
