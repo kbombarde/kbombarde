@@ -7,15 +7,12 @@
 
 
 I am Kshitij Bombarde 😃. I am from Mumbai, Maharashtra and currently working as Software Development Engineer in Test [SDET]. I love to explore and learn about new things.
-## 👯 Communities
-* DSC Lead.
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
+- 🌱 I’m currently learning **Docker, Kubernetes & other important things related to DevOps.**
+
+- 💬 Ask me about **Selenium, WebdriverIO & Test Automation in general.**
+
+- ⚡ Fun fact **Continuous Integration is like a joke: if you have to explain it, it’s not that good.**
+
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
