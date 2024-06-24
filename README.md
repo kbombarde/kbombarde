@@ -1,8 +1,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<img src="https://komarev.com/ghpvc/?username=kbombarde&label=Profile%20views&color=0e75b6&style=flat" alt="kbombarde" />
 <img align='right' src='https://github.com/kbombarde/kbombarde/blob/main/1_DluPjzT_eTUFdzHCI7JBZA.gif' width='200px'>
 
-<img src="https://komarev.com/ghpvc/?username=kbombarde&label=Profile%20views&color=0e75b6&style=flat" alt="kbombarde" />
 <a href="https://www.linkedin.com/in/kshitij-bombarde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kbombarde15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
