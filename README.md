@@ -2,8 +2,7 @@
 
 <img align='right' src='https://github.com/kbombarde/kbombarde/blob/main/1_DluPjzT_eTUFdzHCI7JBZA.gif' width='200px'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kshitij-bombarde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitij-bombarde/)](https://www.linkedin.com/in/kshitij-bombarde/) [![Gmail Badge](https://img.shields.io/badge/-kbombarde15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbombarde15@gmail.com)](mailto:kbombarde15@gmail.com)
 
 I am Kshitij Bombarde 😃. I am from Mumbai, Maharashtra and currently working as Software Development Engineer in Test [SDET]. I love to explore and learn about new things.
 ## 👯 Communities
